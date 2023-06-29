@@ -27,5 +27,5 @@ public class Main {
         } catch (RectanguloException e) {
             System.out.println("Error: " + e.getMessage());
         }
-    }
+    }//CUUU
 }
